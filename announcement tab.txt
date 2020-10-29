@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+
+
+<div class="img-rounded" id="nae-box" style="float: left;
+ background-color:whitesmoke; width: 350px; height: 350px; margin: 10px;">
+<h3 style="color: #f1ebeb; background: linear-gradient(180deg, #0B6073 0%, rgba(20, 196, 235, 0.55) 100%);
+border-radius: 5px 5px 0px 0px; text-align: center; margin: 0px; padding: 15px;font-size: 18px; font-weight: 500;">ADMISSION ANNOUNCEMENTS</h3>
+<div id="cc-homepage-announcements" style="height: 320px; overflow-x: hidden; overflow-y: auto; padding: 6px; text-align: left;">&nbsp;
+
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <p><span class="badge new-yellow">new</span><b>B.Tech Admissions 2020-2024 - &nbsp;<a href="news_and_events/btech-admn-schedule-2020.pdf" target="_blank">Schedule</a></b><br>
+</p>
+    </head>
+<p><span class="badge new-yellow">new</span><b>B.Tech Admissions 2020-2024&nbsp;<br>
+&emsp;&emsp;&emsp;&emsp;<a href="news_and_events/btech-2020-instr.pdf" target="_blank">Instructions & Required Documents</a><br>&emsp;&emsp;&emsp;&emsp;<a href="news_and_events/btech-2020-fee.pdf" target="_blank">Fee Payment Procedure</a></b>
+</p>
+
+
+
+</div>
+</div>
+<!-- background: linear-gradient(180deg, #0B6073 0%, rgba(20, 196, 235, 0.55) 100%);
+border-radius: 18px 18px 0px 0px; -->
+
+
+
+</body>
+</html>
